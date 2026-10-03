@@ -1,4 +1,4 @@
-# Tugas Pemrograman Web 2
+# LARAVEL
 
 Nama: HERAWATI
 NIM: 20252205030
